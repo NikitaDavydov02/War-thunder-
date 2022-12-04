@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-12-04T17:29:02.984+03:00
+  initializedAtString: 2022-12-04T16:58:10.285+03:00
+  log:
+  - commitID: 2415394e76a86f2c3d94df760b1e3ab98c416268
+    mergeA: 
+    mergeB: 
+    authorName: nikit
+    authorEmail: nikit@DESKTOP-164HKMA
+    commitEmail: nikit@DESKTOP-164HKMA
+    commitName: nikit
+    summary: "\u0414\u043E\u0431\u0430\u0432\u044C\u0442\u0435 GITIGNORE- \u0438
+      GITATTRIBUTES-\u0444\u0430\u0439\u043B\u044B."
+    description: 
+    timeString: 2022-12-04T15:43:17.000+03:00
+    commitTimeString: 2022-12-04T15:43:17.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MyGames\\War
+        Thunder\\.gitattributes"
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\MyGames\\War
+        Thunder\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
