@@ -9,19 +9,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Script: {fileID: 1666186674, guid: 095c15a59fb368e4e978bf9ccfe2ce1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-12-04T17:28:54.794+03:00
-  initializedAtString: 2022-12-04T16:35:01.525+03:00
+  lastUpdatedAtString: 2022-12-05T20:47:48.869+03:00
+  initializedAtString: 2022-12-05T20:16:07.671+03:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -46,15 +44,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - master
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/NikitaDavydov02/War-thunder-.git
-        trackingBranch: 
-      - name: master
         remote:
           name: origin
           url: https://github.com/NikitaDavydov02/War-thunder-.git
